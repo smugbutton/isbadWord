@@ -1,5 +1,4 @@
 # isbadWord
-Eliminate bad words from requests
 
 Simple PHP function to check for bad words.  Handy for checking usernames on signups and registrations.
 
